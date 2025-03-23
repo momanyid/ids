@@ -2,9 +2,9 @@
 
 ## 1. Initialize Python Virtual Environment
 
-1. Open a terminal and navigate to the `simple-ids` directory:
+1. Open a terminal and navigate to the `simple_ids` directory:
    ```sh
-   cd simple-ids
+   cd simple_ids
 
     Create and activate a virtual environment:
 
